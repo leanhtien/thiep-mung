@@ -1,6 +1,6 @@
 
 var to = 'Em!';
-var gift_url = 'http://nodemy.vn';
+var gift_url = 'https://www.facebook.com/uyenthao';
 var gift_image_url = 'hot-girl.png';
 
 
