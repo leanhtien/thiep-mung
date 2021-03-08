@@ -1,5 +1,5 @@
 
-var to = 'Em!';
+var to = 'Honey!';
 var gift_url = 'https://www.facebook.com/uyenthao';
 var gift_image_url = 'hot-girl.png';
 
